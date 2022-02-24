@@ -51,9 +51,6 @@ function draw() {
   //if gameState is 2 then call game.end()
     //Write your code after this line
 
-    if(gameState === 2){
-      game.end();
-    }
 
 
     //Write your code before this line
